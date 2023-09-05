@@ -1,0 +1,1 @@
+Welcome to the House Pricing Linear Regression repository, designed to help  understand the concepts of linear regression, basic data cleaning techniques, and exploratory data analysis (EDA) while predicting house prices. 
